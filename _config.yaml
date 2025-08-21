@@ -1,0 +1,25 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.author }}, {{ site.github_url }}, etc.
+
+title: LLMOverflow
+description: "一个探索LLM时代编程可靠性的角落。"
+author: "CharlieBrown-v1"
+
+# This is the theme of your Jekyll blog.
+# We're using a clean and simple theme supported by GitHub Pages.
+theme: jekyll-theme-minimal
+
+# You can add your social links here if you want
+github_url: "https://github.com/CharlieBrown-v1/llmoverflow.github.io"
+
+# Build settings
+# We don't need to change these for now
+markdown: kramdown
