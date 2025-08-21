@@ -23,3 +23,6 @@ github_url: "https://github.com/CharlieBrown-v1/llmoverflow.github.io"
 # Build settings
 # We don't need to change these for now
 markdown: kramdown
+
+# This allows Jekyll to process posts with future dates.
+future: true
