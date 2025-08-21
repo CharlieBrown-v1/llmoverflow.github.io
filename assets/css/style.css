@@ -10,6 +10,6 @@ Your Custom Styles Start Here - LLMOverflow Customizations
 */
 
 /* 调整主要内容区域的最大宽度 */
-main {
+.wrapper {
   max-width: 65rem;
 }

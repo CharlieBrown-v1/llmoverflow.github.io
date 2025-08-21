@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, World! LLMOverflow 第一问：当编程的起点变成Prompt，工程师要如何确保终点的可靠？"
 date: 2025-08-21 16:00:00 +0800
-description: "一篇关于在LLM时代追求100%可靠JSON输出的深度探索，记录了从Prompt工程到Tool Calling的五种尝试与反思，同时也是LLMOverflow.dev的创世之问。"
+description: "一次在LLM时代追求100%可靠JSON输出的深度探索，记录了从Prompt工程到Tool Calling的五种尝试与反思。"
 author: "CharlieBrown-v1"
 ---
 
@@ -219,7 +219,7 @@ Agent 社区内，将 `tool_calling` 视为 JSON 格式化输出的最先进技�
 * **如何终结“大海捞针”式的探索？** 在无数个社区、论坛、Discord频道之间切换，大海捞针式地寻找解决方案，体验实在太糟糕了！
 * **我们如何找到LLM的“母语”？** 能否量化不同数据结构对LLM的友好度？我反复迭代优化后得到的 `计算步骤` Schema，它真的是最优解吗？
 
-**以上种种，就是 `LLMOverflow.dev` 存在的意义！**
+**综上种种，正是 `LLMOverflow.dev` 存在的意义！**
 
 我们来到了一个前所未见的蓝海，试错肯定在所难免。但在试错之后，我们的经验和教训不应该像水蒸气一样消散在空气中。那些我们花费无数个深夜调试出来的Prompt、我们总结出的宝贵经验，应该被沉淀下来，变成后来者的阶梯。
 
@@ -232,6 +232,6 @@ Agent 社区内，将 `tool_calling` 视为 JSON 格式化输出的最先进技�
 
 这仅仅是个开始。
 
-**我的“创世之问”抛给了大家：关于“确保LLM输出100%符合Schema的JSON”，你是否也有自己的独门秘籍，或是同样惨痛的教训？**
+**最后我有一个问题想请教大家：关于“确保LLM输出100%符合Schema的JSON”，你是否也有自己的独门秘籍，或是同样惨痛的教训？**
 
-欢迎诸君带着代码与思考，来到 `LLMOverflow.dev`，让我们一起，点燃这个LLM时代的星星之火！
+欢迎大家带着代码与思考，来到 `LLMOverflow.dev`，让我们一起，燃起LLM时代的星星之火！
